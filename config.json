@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "username": "example@gmail.com",
+      "password": "some_password",
+      "local_path": "/root/.imap-backup/backup/example_gmail.com",
+      "folders": [
+
+      ],
+      "server": "imap.gmail.com"
+    }
+  ],
+  "debug": true
+}
